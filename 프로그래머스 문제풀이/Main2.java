@@ -1,5 +1,6 @@
 package seul;
 
+// level2 두 번째 문제, jaden문자열
 public class Main2 {
 	
 	public static String solution (String s ) {
